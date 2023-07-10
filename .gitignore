@@ -4,5 +4,7 @@ build/
 obj/
 *.iml
 local.properties
-
+google-services.json
 .cxx
+rabbet/afat
+rabbet/bundle
